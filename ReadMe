@@ -5,7 +5,7 @@ Input - This could be any file, one example file is present in test folder calle
 Execution steps - There is a jsonUtil.sh provided along. The bash script executes the required steps for the user to
 create the class file, and run the provided input as follows:
 
-Ensure that your current directory when executing the bash file is: "projects"
+Ensure that your current directory when executing the bash file is: "FlattenJson"
 
 ***************************************************************
 
